@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>沉沦者的黑流树海 · 藏品工具</title>
+<style>
+  :root{--bg:#0f1420;--card:#1a2130;--card2:#222c40;--line:#2e3a52;--txt:#e8edf6;--sub:#9aa7bd;--acc:#35d0a5;--acc2:#4da3ff;--warn:#ffb454}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:radial-gradient(1200px 600px at 20% -10%, #1b2740 0%, transparent 60%),
+               radial-gradient(900px 500px at 100% 0%, #122a2a 0%, transparent 55%),var(--bg);
+    color:var(--txt);min-height:100vh;padding:48px 20px}
+  .wrap{max-width:860px;margin:0 auto}
+  h1{font-size:26px;font-weight:700}
+  .sub{color:var(--sub);font-size:14px;margin-top:8px}
+  .cards{margin-top:28px;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+  a.card{display:block;text-decoration:none;background:var(--card);border:1px solid var(--line);
+    border-radius:16px;padding:24px;transition:.15s;color:var(--txt)}
+  a.card:hover{border-color:var(--acc);box-shadow:0 8px 28px rgba(53,208,165,.12);transform:translateY(-2px)}
+  .icon{font-size:30px}
+  .t{font-size:18px;font-weight:700;margin-top:12px}
+  .d{font-size:13px;color:var(--sub);margin-top:6px;line-height:1.6}
+  .tag{display:inline-block;margin-top:14px;padding:3px 10px;border-radius:999px;font-size:12px;
+    background:rgba(53,208,165,.12);border:1px solid rgba(53,208,165,.35);color:var(--acc)}
+  .foot{margin-top:32px;color:var(--sub);font-size:12px;line-height:1.8}
+  .foot a{color:var(--acc)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>沉沦者的黑流树海 · 藏品工具</h1>
+  <div class="sub">《明日方舟》集成战略第六主题 · 收藏品数据工具（数据来源：路标档案馆藏品池）</div>
+
+  <div class="cards">
+    <a class="card" href="藏品获取筛选器_诡意行商_湖中仙女_险路恶敌.html">
+      <div class="icon">🎯</div>
+      <div class="t">藏品获取筛选器</div>
+      <div class="d">按获取来源交叉筛选收藏品：诡意行商 / 湖中仙女 / 险路恶敌，可多选取交集，支持物品名称搜索。</div>
+      <span class="tag">进入工具 →</span>
+    </a>
+    <a class="card" href="沉沦者的黑流树海_收藏品一览表.html">
+      <div class="icon">📋</div>
+      <div class="t">收藏品一览表</div>
+      <div class="d">285 件藏品完整表格：稀有度、诡意行商售价、失与得、藏品池、可获取节点，支持搜索与筛选。</div>
+      <span class="tag">进入表格 →</span>
+    </a>
+  </div>
+
+  <div class="foot">
+    稀有度（从低到高）：N（普通）→ R（稀有）→ SR（超稀有）。<br>
+    项目仓库：<a href="https://github.com/Christina-tz/arknights-blackstream-relics" target="_blank">GitHub · arknights-blackstream-relics</a>
+  </div>
+</div>
+</body>
+</html>
