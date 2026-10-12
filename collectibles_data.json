@@ -2,66 +2,6 @@
   {
     "no": "No.006",
     "no_num": 6,
-    "name": "皮特水果什锦",
-    "rarity": "SUPER_RARE",
-    "rarity_label": "超稀有",
-    "rarity_short": "金",
-    "rarity_order": 3,
-    "price": 16,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：SR藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.006",
-    "no_num": 6,
-    "name": "皮特水果什锦-α",
-    "rarity": "SUPER_RARE",
-    "rarity_label": "超稀有",
-    "rarity_short": "金",
-    "rarity_order": 3,
-    "price": 16,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：SR藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.006",
-    "no_num": 6,
-    "name": "皮特水果什锦-β",
-    "rarity": "SUPER_RARE",
-    "rarity_label": "超稀有",
-    "rarity_short": "金",
-    "rarity_order": 3,
-    "price": 16,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：SR藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.006",
-    "no_num": 6,
     "name": "皮特水果什锦-γ",
     "rarity": "SUPER_RARE",
     "rarity_label": "超稀有",
@@ -81,72 +21,6 @@
       "“居民”据点",
       "诡意行商",
       "险路恶敌"
-    ]
-  },
-  {
-    "no": "No.013",
-    "no_num": 13,
-    "name": "女妖之吻",
-    "rarity": "SUPER_RARE",
-    "rarity_label": "超稀有",
-    "rarity_short": "金",
-    "rarity_order": 3,
-    "price": 16,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：SR藏品输入",
-      "得偿所愿：更高级",
-      "收藏品"
-    ],
-    "nodes": [
-      "诡意行商",
-      "得偿所愿",
-      "险路恶敌"
-    ]
-  },
-  {
-    "no": "No.013",
-    "no_num": 13,
-    "name": "女妖之吻-α",
-    "rarity": "SUPER_RARE",
-    "rarity_label": "超稀有",
-    "rarity_short": "金",
-    "rarity_order": 3,
-    "price": 16,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：SR藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.013",
-    "no_num": 13,
-    "name": "女妖之吻-β",
-    "rarity": "SUPER_RARE",
-    "rarity_label": "超稀有",
-    "rarity_short": "金",
-    "rarity_order": 3,
-    "price": 16,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：SR藏品输入",
-      "命运所指：好奇心与死"
-    ],
-    "nodes": [
-      "诡意行商",
-      "命运所指：好奇心与死"
     ]
   },
   {
@@ -2432,72 +2306,6 @@
   {
     "no": "No.004",
     "no_num": 4,
-    "name": "尖叫樱桃",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "额外掉落池",
-      "诡意行商",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "额外掉落",
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.004",
-    "no_num": 4,
-    "name": "尖叫樱桃-α",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.004",
-    "no_num": 4,
-    "name": "尖叫樱桃-β",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.004",
-    "no_num": 4,
     "name": "尖叫樱桃-γ",
     "rarity": "RARE",
     "rarity_label": "稀有",
@@ -2519,72 +2327,6 @@
       "作战",
       "诡意行商",
       "流窜的“居民”"
-    ]
-  },
-  {
-    "no": "No.005",
-    "no_num": 5,
-    "name": "咖啡平原咖啡糖",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "额外掉落池",
-      "诡意行商",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "额外掉落",
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.005",
-    "no_num": 5,
-    "name": "咖啡平原咖啡糖-α",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.005",
-    "no_num": 5,
-    "name": "咖啡平原咖啡糖-β",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
     ]
   },
   {
@@ -2614,72 +2356,6 @@
   {
     "no": "No.009",
     "no_num": 9,
-    "name": "林间夜话",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "狭路相逢：右",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "狭路相逢",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.009",
-    "no_num": 9,
-    "name": "林间夜话-α",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.009",
-    "no_num": 9,
-    "name": "林间夜话-β",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.009",
-    "no_num": 9,
     "name": "林间夜话-γ",
     "rarity": "RARE",
     "rarity_label": "稀有",
@@ -2699,72 +2375,6 @@
       "紧急作战",
       "诡意行商",
       "流窜的“居民”"
-    ]
-  },
-  {
-    "no": "No.010",
-    "no_num": 10,
-    "name": "教堂救济餐券",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "额外掉落池",
-      "诡意行商",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "额外掉落",
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.010",
-    "no_num": 10,
-    "name": "教堂救济餐券-α",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.010",
-    "no_num": 10,
-    "name": "教堂救济餐券-β",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入",
-      "失与得：R藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
     ]
   },
   {
@@ -2794,76 +2404,6 @@
   {
     "no": "No.011",
     "no_num": 11,
-    "name": "古旧乐谱残章",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "不期而遇：敲动杠杆",
-      "不期而遇：被歌颂的影子（随机收藏品）",
-      "失与得：R藏品输入",
-      "得偿所愿"
-    ],
-    "nodes": [
-      "诡意行商",
-      "不期而遇：敲动杠杆",
-      "不期而遇：被歌颂的影子",
-      "得偿所愿"
-    ]
-  },
-  {
-    "no": "No.011",
-    "no_num": 11,
-    "name": "古旧乐谱残章-α",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.011",
-    "no_num": 11,
-    "name": "古旧乐谱残章-β",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "不期而遇：敲动杠杆",
-      "不期而遇：被歌颂的影子（随机收藏品）",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商",
-      "不期而遇：敲动杠杆",
-      "不期而遇：被歌颂的影子"
-    ]
-  },
-  {
-    "no": "No.011",
-    "no_num": 11,
     "name": "古旧乐谱残章-γ",
     "rarity": "RARE",
     "rarity_label": "稀有",
@@ -2884,76 +2424,6 @@
       "紧急作战",
       "“居民”据点",
       "诡意行商"
-    ]
-  },
-  {
-    "no": "No.012",
-    "no_num": 12,
-    "name": "解约协议",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "隐藏",
-      "不期而遇：被歌颂的影子（随机收藏品）",
-      "失与得：R藏品输入",
-      "得偿所愿"
-    ],
-    "nodes": [
-      "诡意行商",
-      "隐藏",
-      "不期而遇：被歌颂的影子",
-      "得偿所愿"
-    ]
-  },
-  {
-    "no": "No.012",
-    "no_num": 12,
-    "name": "解约协议-α",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.012",
-    "no_num": 12,
-    "name": "解约协议-β",
-    "rarity": "RARE",
-    "rarity_label": "稀有",
-    "rarity_short": "蓝",
-    "rarity_order": 2,
-    "price": 12,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "不期而遇：敲动杠杆",
-      "不期而遇：被歌颂的影子（随机收藏品）",
-      "失与得：R藏品输入"
-    ],
-    "nodes": [
-      "诡意行商",
-      "不期而遇：敲动杠杆",
-      "不期而遇：被歌颂的影子"
     ]
   },
   {
@@ -6057,70 +5527,6 @@
   {
     "no": "No.001",
     "no_num": 1,
-    "name": "精选兽肉罐头",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.001",
-    "no_num": 1,
-    "name": "精选兽肉罐头-α",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.001",
-    "no_num": 1,
-    "name": "精选兽肉罐头-β",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.001",
-    "no_num": 1,
     "name": "精选兽肉罐头-γ",
     "rarity": "NORMAL",
     "rarity_label": "普通",
@@ -6144,70 +5550,6 @@
       "“居民”据点",
       "诡意行商",
       "流窜的“居民”"
-    ]
-  },
-  {
-    "no": "No.002",
-    "no_num": 2,
-    "name": "凉拌海草",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.002",
-    "no_num": 2,
-    "name": "凉拌海草-α",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.002",
-    "no_num": 2,
-    "name": "凉拌海草-β",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
     ]
   },
   {
@@ -6241,70 +5583,6 @@
   {
     "no": "No.003",
     "no_num": 3,
-    "name": "橙味风暴",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.003",
-    "no_num": 3,
-    "name": "橙味风暴-α",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.003",
-    "no_num": 3,
-    "name": "橙味风暴-β",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.003",
-    "no_num": 3,
     "name": "橙味风暴-γ",
     "rarity": "NORMAL",
     "rarity_label": "普通",
@@ -6326,72 +5604,6 @@
       "作战",
       "“居民”据点",
       "诡意行商"
-    ]
-  },
-  {
-    "no": "No.007",
-    "no_num": 7,
-    "name": "地形图",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "额外掉落池",
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "额外掉落",
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.007",
-    "no_num": 7,
-    "name": "地形图-α",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.007",
-    "no_num": 7,
-    "name": "地形图-β",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
     ]
   },
   {
@@ -6420,70 +5632,6 @@
       "“居民”据点",
       "诡意行商",
       "流窜的“居民”"
-    ]
-  },
-  {
-    "no": "No.008",
-    "no_num": 8,
-    "name": "神音海螺",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
-    ]
-  },
-  {
-    "no": "No.008",
-    "no_num": 8,
-    "name": "神音海螺-α",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入"
-    ],
-    "nodes": [
-      "诡意行商"
-    ]
-  },
-  {
-    "no": "No.008",
-    "no_num": 8,
-    "name": "神音海螺-β",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": true,
-    "can_sacrifice": true,
-    "category": "多元奇物",
-    "pools": [
-      "诡意行商",
-      "失与得：N藏品输入",
-      "失与得：N藏品输出"
-    ],
-    "nodes": [
-      "诡意行商",
-      "失与得"
     ]
   },
   {
@@ -7887,40 +7035,6 @@
   {
     "no": "",
     "no_num": null,
-    "name": "襁褓中的狗",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [],
-    "nodes": []
-  },
-  {
-    "no": "",
-    "no_num": null,
-    "name": "襁褓中的狗",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [
-      "秘境行商：种子培育"
-    ],
-    "nodes": [
-      "秘境行商"
-    ]
-  },
-  {
-    "no": "",
-    "no_num": null,
     "name": "襁褓中的猫",
     "rarity": "NORMAL",
     "rarity_label": "普通",
@@ -7936,40 +7050,6 @@
   {
     "no": "",
     "no_num": null,
-    "name": "襁褓中的猫",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [],
-    "nodes": []
-  },
-  {
-    "no": "",
-    "no_num": null,
-    "name": "襁褓中的猫",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [
-      "秘境行商：种子培育"
-    ],
-    "nodes": [
-      "秘境行商"
-    ]
-  },
-  {
-    "no": "",
-    "no_num": null,
     "name": "襁褓羽蛇",
     "rarity": "NORMAL",
     "rarity_label": "普通",
@@ -7981,84 +7061,5 @@
     "category": "",
     "pools": [],
     "nodes": []
-  },
-  {
-    "no": "",
-    "no_num": null,
-    "name": "襁褓羽蛇",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [],
-    "nodes": []
-  },
-  {
-    "no": "",
-    "no_num": null,
-    "name": "襁褓羽蛇",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [],
-    "nodes": []
-  },
-  {
-    "no": "",
-    "no_num": null,
-    "name": "襁褓羽蛇",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [],
-    "nodes": []
-  },
-  {
-    "no": "",
-    "no_num": null,
-    "name": "襁褓羽蛇",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [],
-    "nodes": []
-  },
-  {
-    "no": "",
-    "no_num": null,
-    "name": "襁褓羽蛇",
-    "rarity": "NORMAL",
-    "rarity_label": "普通",
-    "rarity_short": "白",
-    "rarity_order": 1,
-    "price": 8,
-    "in_guiyi": false,
-    "can_sacrifice": false,
-    "category": "",
-    "pools": [
-      "秘境行商：种子培育"
-    ],
-    "nodes": [
-      "秘境行商"
-    ]
   }
 ]

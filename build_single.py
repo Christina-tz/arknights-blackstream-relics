@@ -80,11 +80,43 @@ def base_id(cid):
             return cid[: -len(suf)]
     return cid
 
+# 去重：同一藏品的结构变体（α/β/γ）只保留 γ（混沌化）形态；
+# 襁褓生灵的 _1/_2 与 05-09 号位为同名同效果的冗余条目，只保留基础项
+import re
+from collections import defaultdict
+def _logical_base(cid):
+    for suf in ("_a", "_b", "_c"):
+        if cid.endswith(suf):
+            return cid[: -len(suf)]
+    m = re.match(r"^(rogue_6_legacy_\d+)_[12]$", cid)
+    if m:
+        return m.group(1)
+    m = re.match(r"^(rogue_6_legacy_0)[5-9]$", cid)
+    if m:
+        return m.group(1) + "4"
+    return cid
+
+_by_base = defaultdict(list)
+for _it in classifier_items:
+    if _it.get("dataType") == "藏品":
+        _by_base[_logical_base(_it["itemId"])].append(_it["itemId"])
+_keep_ids = set()
+for _bid, _ids in _by_base.items():
+    _gamma = [i for i in _ids if i.endswith("_c")]
+    if _gamma:
+        _keep_ids.add(_gamma[0])
+    else:
+        _base = [i for i in _ids if i == _bid]
+        _keep_ids.add(_base[0] if _base else sorted(_ids)[0])
+
 rows = []
 for it in classifier_items:
     if it.get("dataType") != "藏品":
         continue
-    cid = it["itemId"]; rarity = it.get("rarity"); rm = RARITY_META.get(rarity, {})
+    cid = it["itemId"]
+    if cid not in _keep_ids:
+        continue
+    rarity = it.get("rarity"); rm = RARITY_META.get(rarity, {})
     pi = prts_by_icon.get(base_id(cid))
     no = pi.get("numberLabel", "") if pi else ""
     no_num = int(pi.get("number")) if pi else None
