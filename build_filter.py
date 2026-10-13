@@ -40,11 +40,41 @@ def base_id(cid):
             return cid[: -len(suf)]
     return cid
 
+# 去重：α/β/γ 只保留 γ；襁褓生灵冗余条目只保留基础项
+import re
+from collections import defaultdict
+def _logical_base(cid):
+    for suf in ("_a", "_b", "_c"):
+        if cid.endswith(suf):
+            return cid[: -len(suf)]
+    m = re.match(r"^(rogue_6_legacy_\d+)_[12]$", cid)
+    if m:
+        return m.group(1)
+    m = re.match(r"^(rogue_6_legacy_0)[5-9]$", cid)
+    if m:
+        return m.group(1) + "4"
+    return cid
+
+_colls = [it for it in classifier_items if it.get("dataType") == "藏品"]
+_by_base = defaultdict(list)
+for _c in _colls:
+    _by_base[_logical_base(_c["itemId"])].append(_c["itemId"])
+_keep_ids = set()
+for _bid, _ids in _by_base.items():
+    _gamma = [i for i in _ids if i.endswith("_c")]
+    if _gamma:
+        _keep_ids.add(_gamma[0])
+    else:
+        _base = [i for i in _ids if i == _bid]
+        _keep_ids.add(_base[0] if _base else sorted(_ids)[0])
+
 rows = []
 for it in classifier_items:
     if it.get("dataType") != "藏品":
         continue
     cid = it["itemId"]
+    if cid not in _keep_ids:
+        continue
     rarity = it.get("rarity")
     rm = RARITY_META.get(rarity, {})
     pi = prts_by_icon.get(base_id(cid))
